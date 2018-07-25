@@ -1,6 +1,6 @@
 # Knowledger
 
-:blue_book: Document everything.
+:blue_book: Document everything
 
 ## Contents
 
