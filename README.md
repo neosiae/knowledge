@@ -1,2 +1,5 @@
-# knowledger
-blue_book Document everything.
+# Knowledger
+
+:notebook: Document everything.
+
+## Contents
