@@ -1,5 +1,7 @@
 # Knowledger
 
-:notebook: Document everything.
+:blue_book: Document everything.
 
 ## Contents
+
+* [JavaScript](computers/programming/javascript/javascript.md)
