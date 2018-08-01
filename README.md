@@ -8,3 +8,4 @@
 
 * [JavaScript](computers/programming/javascript/javascript.md)
 * [Polyfill](computers/programming/javascript/polyfill.md)
+* [Programming](computers/programming/programming.md)
