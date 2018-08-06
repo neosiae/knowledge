@@ -8,4 +8,4 @@ Properties that are accessed directly may hide a method call. Such methods are c
 
 # Static method
 
-Sometimes you want to create a method that belongs to a class rather than an object so you don't have to create an instance of the class to access it. This type of method is called static method. 
+Sometimes you want to create a method that belongs to a class rather than an object so you don't have to create an instance of the class to access it. This type of method is called a static method. 
