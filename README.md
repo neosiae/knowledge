@@ -4,7 +4,11 @@
 
 ## Contents
 
-## Programming
+### Computers
+
+* [VIM](computers/vim.md)
+
+### Programming
 
 * [OOP](computers/programming/oop.md)
 * [Rust](computers/programming/rust.md)
@@ -14,4 +18,5 @@
 
 * [JavaScript](computers/programming/javascript/javascript.md)
 * [Polyfill](computers/programming/javascript/polyfill.md)
-* [Programming](computers/programming/programming.md)
+* [Promises](computers/programming/javascript/promises.md)
+* [Redux](computers/programming/javascript/redux.md)
