@@ -7,16 +7,20 @@
 * [Learning](learning.md)
 * [Next](next.md)
 
+## Computers
+
+* [Network](computers/network.md)
+
 ### Programming
 
 * [Compilers](computers/programming/compilers.md)
 * [OOP](computers/programming/oop.md)
 * [Programming](computers/programming/programming.md)
 * [Rust](computers/programming/rust.md)
-* [State](computers/programming/state.md)
 
 ### Unix
 
+* [Unix](computers/unix/unix.md)
 * [Vim](computers/unix/vim.md)
 
 ### JavaScript
