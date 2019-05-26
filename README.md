@@ -26,6 +26,7 @@
 - [Promises](computers/programming/javascript/promises.md)
 - [Redux](computers/programming/javascript/redux.md)
 - [Transducers](computers/programming/javascript/transducers.md)
+- [Books](computers/programming/javascript/books.md)
 
 ### Unix
 
