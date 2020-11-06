@@ -28,6 +28,10 @@
 - [Transducers](computers/programming/javascript/transducers.md)
 - [Books](computers/programming/javascript/books.md)
 
+### Go lang
+
+- [Go](computers/programming/go-lang/go.md)
+
 ### Unix
 
 - [Unix](computers/unix/unix.md)
