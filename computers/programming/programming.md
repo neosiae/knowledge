@@ -21,3 +21,11 @@ Pointers are variables that store addresses.
 ## Dereferencing
 
 Dereferencing is used to access or manipulate data saved in an address pointed to by a pointer.
+
+## Concurrency
+
+Concurrency is when two or more tasks can start, run, and complete in overlapping time periods.
+
+## Parallelism
+
+Parallelism is when tasks run at the same time.
