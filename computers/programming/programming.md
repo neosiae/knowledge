@@ -29,3 +29,7 @@ Concurrency is when two or more tasks can start, run, and complete in overlappin
 ## Parallelism
 
 Parallelism is when tasks run at the same time.
+
+## Mutex
+
+Mutex (mutual exclusion) is used when we want to make sure only one thread can access a shared resource at a time to avoid race conditions.
